@@ -1,0 +1,152 @@
+[
+    {
+        "id": "temporal_80",
+        "title": "Temporal Reasoning Example",
+        "context": "While Maria was attending a conference in Paris, her colleague John was presenting their project in Berlin.",
+        "question": "What was happening when Maria was attending the conference?",
+        "answers": {
+            "text": [
+                "John was presenting the project"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_81",
+        "title": "Temporal Reasoning Example",
+        "context": "The festival started just as the sun was setting.",
+        "question": "What was occurring as the sun was setting?",
+        "answers": {
+            "text": [
+                "The festival started"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_82",
+        "title": "Temporal Reasoning Example",
+        "context": "During the time Alex was studying in the library, Emma was working in the laboratory.",
+        "question": "What was Emma doing while Alex was studying?",
+        "answers": {
+            "text": [
+                "Working in the laboratory"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_83",
+        "title": "Temporal Reasoning Example",
+        "context": "As the new year rang in, the city's fireworks display lit up the sky.",
+        "question": "What event occurred as the new year was ringing in?",
+        "answers": {
+            "text": [
+                "Fireworks display"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_84",
+        "title": "Temporal Reasoning Example",
+        "context": "While the students were taking their final exams, their teacher was grading the previous tests.",
+        "question": "What was the teacher doing as the students took their finals?",
+        "answers": {
+            "text": [
+                "Grading previous tests"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_85",
+        "title": "Temporal Reasoning Example",
+        "context": "The thunderstorm hit the town at the same time the concert was supposed to start.",
+        "question": "What happened when the concert was supposed to start?",
+        "answers": {
+            "text": [
+                "Thunderstorm hit"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_86",
+        "title": "Temporal Reasoning Example",
+        "context": "As the CEO was announcing the new product, the company's stock began to rise.",
+        "question": "What was occurring as the CEO announced the new product?",
+        "answers": {
+            "text": [
+                "Stock began to rise"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_87",
+        "title": "Temporal Reasoning Example",
+        "context": "During the week that the international summit was held, the local universities hosted various cultural events.",
+        "question": "What was happening during the international summit week?",
+        "answers": {
+            "text": [
+                "Universities hosted cultural events"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_88",
+        "title": "Temporal Reasoning Example",
+        "context": "While the family was vacationing in Hawaii, their neighbors were looking after their pets.",
+        "question": "What were the neighbors doing while the family was in Hawaii?",
+        "answers": {
+            "text": [
+                "Looking after pets"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_89",
+        "title": "Temporal Reasoning Example",
+        "context": "As the clock struck midnight, people around the world celebrated the new year.",
+        "question": "What occurred as the clock struck midnight?",
+        "answers": {
+            "text": [
+                "People celebrated the new year"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    }
+]

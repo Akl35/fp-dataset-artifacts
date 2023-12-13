@@ -1,0 +1,544 @@
+[
+    
+    {
+        "name": "Change in profession",
+        "passage": "Both Alice and Bob were teachers, but there was a change in Alice, who is now a lawyer",
+        "question": "Who is a lawyer?",
+        "answer": "Alice"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Sarah and John were doctors, but there was a change in John, who is now a chef",
+        "question": "Who is a chef?",
+        "answer": "John"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Emily and Mike were engineers, but there was a change in Mike, who is now a pilot",
+        "question": "Who is a pilot?",
+        "answer": "Mike"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Rachel and Steve were musicians, but there was a change in Rachel, who is now an artist",
+        "question": "Who is an artist?",
+        "answer": "Rachel"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Chris and Laura were journalists, but there was a change in Laura, who is now a biologist",
+        "question": "Who is a biologist?",
+        "answer": "Laura"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Mark and Anna were architects, but there was a change in Mark, who is now a photographer",
+        "question": "Who is a photographer?",
+        "answer": "Mark"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Omar and Lisa were dancers, but there was a change in Lisa, who is now a graphic designer",
+        "question": "Who is a graphic designer?",
+        "answer": "Lisa"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Tony and Zoe were chefs, but there was a change in Tony, who is now a programmer",
+        "question": "Who is a programmer?",
+        "answer": "Tony"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Max and Julie were pilots, but there was a change in Julie, who is now a scientist",
+        "question": "Who is a scientist?",
+        "answer": "Julie"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Neil and Heather were police officers, but there was a change in Neil, who is now a firefighter",
+        "question": "Who is a firefighter?",
+        "answer": "Neil"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Jacob and Emma were actors, but there was a change in Emma, who is now a director",
+        "question": "Who is a director?",
+        "answer": "Emma"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Kevin and Amy were accountants, but there was a change in Amy, who is now a marketer",
+        "question": "Who is a marketer?",
+        "answer": "Amy"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Lucas and Olivia were software developers, but there was a change in Lucas, who is now a data analyst",
+        "question": "Who is a data analyst?",
+        "answer": "Lucas"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Ethan and Charlotte were electricians, but there was a change in Charlotte, who is now an interior designer",
+        "question": "Who is an interior designer?",
+        "answer": "Charlotte"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Ryan and Sophia were baristas, but there was a change in Sophia, who is now a nutritionist",
+        "question": "Who is a nutritionist?",
+        "answer": "Sophia"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Aaron and Mia were teachers, but there was a change in Aaron, who is now a historian",
+        "question": "Who is a historian?",
+        "answer": "Aaron"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Dylan and Grace were dentists, but there was a change in Dylan, who is now a landscape architect",
+        "question": "Who is a landscape architect?",
+        "answer": "Dylan"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Liam and Nora were bankers, but there was a change in Nora, who is now a social worker",
+        "question": "Who is a social worker?",
+        "answer": "Nora"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Adam and Lily were veterinarians, but there was a change in Adam, who is now a zoologist",
+        "question": "Who is a zoologist?",
+        "answer": "Adam"
+    },
+    {
+        "name": "Change in profession",
+        "passage": "Both Henry and Isabel were pharmacists, but there was a change in Henry, who is now a chemist",
+        "question": "Who is a chemist?",
+        "answer": "Henry"
+    },
+
+    {
+        "name": "Before and after",
+        "passage": "Michael became a chef before Lisa did.",
+        "question": "Who became a chef first?",
+        "answer": "Michael"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Emma became a journalist before Robert did.",
+        "question": "Who became a journalist first?",
+        "answer": "Emma"
+    },
+    {
+        "name": "Before and after",
+        "passage": "David became a teacher before Sarah did.",
+        "question": "Who became a teacher first?",
+        "answer": "David"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Olivia became a doctor before John did.",
+        "question": "Who became a doctor first?",
+        "answer": "Olivia"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Sophia became an engineer before Max did.",
+        "question": "Who became an engineer first?",
+        "answer": "Sophia"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Daniel became a lawyer before Emily did.",
+        "question": "Who became a lawyer first?",
+        "answer": "Daniel"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Grace became a nurse before Alex did.",
+        "question": "Who became a nurse first?",
+        "answer": "Grace"
+    },
+    {
+        "name": "Before and after",
+        "passage": "James became a photographer before Ava did.",
+        "question": "Who became a photographer first?",
+        "answer": "James"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Charlotte became an architect before Ethan did.",
+        "question": "Who became an architect first?",
+        "answer": "Charlotte"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Lucas became a scientist before Mia did.",
+        "question": "Who became a scientist first?",
+        "answer": "Lucas"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Maria became a doctor before Alex did.",
+        "question": "Who became a doctor last?",
+        "answer": "Alex"
+    },
+    {
+        "name": "Before and after",
+        "passage": "James became a teacher before Lisa did.",
+        "question": "Who became a teacher last?",
+        "answer": "Lisa"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Ethan became a pilot before Olivia did.",
+        "question": "Who became a pilot last?",
+        "answer": "Olivia"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Sophia became an engineer before Ryan did.",
+        "question": "Who became an engineer last?",
+        "answer": "Ryan"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Derek became a chef before Naomi did.",
+        "question": "Who became a chef last?",
+        "answer": "Naomi"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Chloe became a journalist before Kevin did.",
+        "question": "Who became a journalist last?",
+        "answer": "Kevin"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Aaron became an artist before Emily did.",
+        "question": "Who became an artist last?",
+        "answer": "Emily"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Grace became a lawyer before Jacob did.",
+        "question": "Who became a lawyer last?",
+        "answer": "Jacob"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Nathan became a musician before Sarah did.",
+        "question": "Who became a musician last?",
+        "answer": "Sarah"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Leo became a scientist before Hannah did.",
+        "question": "Who became a scientist last?",
+        "answer": "Hannah"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Emma became a lawyer after John did.",
+        "question": "Who became a lawyer last?",
+        "answer": "Emma"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Michael became a teacher after Claire did.",
+        "question": "Who became a teacher last?",
+        "answer": "Michael"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Lucas became an architect after Rachel did.",
+        "question": "Who became an architect last?",
+        "answer": "Lucas"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Sophie became a pilot after Mark did.",
+        "question": "Who became a pilot last?",
+        "answer": "Sophie"
+    },
+    {
+        "name": "Before and after",
+        "passage": "David became a chef after Lisa did.",
+        "question": "Who became a chef last?",
+        "answer": "David"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Amelia became a journalist after Alex did.",
+        "question": "Who became a journalist last?",
+        "answer": "Amelia"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Grace became an engineer after Ethan did.",
+        "question": "Who became an engineer last?",
+        "answer": "Grace"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Oliver became a musician after Zoe did.",
+        "question": "Who became a musician last?",
+        "answer": "Oliver"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Liam became a scientist after Emily did.",
+        "question": "Who became a scientist last?",
+        "answer": "Liam"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Charlotte became a doctor after Max did.",
+        "question": "Who became a doctor last?",
+        "answer": "Charlotte"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Hannah became a photographer after Tom did.",
+        "question": "Who became a photographer first?",
+        "answer": "Tom"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Daniel became an accountant after Maya did.",
+        "question": "Who became an accountant first?",
+        "answer": "Maya"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Olivia became a nurse after Ethan did.",
+        "question": "Who became a nurse first?",
+        "answer": "Ethan"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Jack became a software developer after Sarah did.",
+        "question": "Who became a software developer first?",
+        "answer": "Sarah"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Alice became a biologist after Kyle did.",
+        "question": "Who became a biologist first?",
+        "answer": "Kyle"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Leo became a graphic designer after Emily did.",
+        "question": "Who became a graphic designer first?",
+        "answer": "Emily"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Sophie became an architect after Ryan did.",
+        "question": "Who became an architect first?",
+        "answer": "Ryan"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Isaac became a teacher after Zoe did.",
+        "question": "Who became a teacher first?",
+        "answer": "Zoe"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Ava became a journalist after Max did.",
+        "question": "Who became a journalist first?",
+        "answer": "Max"
+    },
+    {
+        "name": "Before and after",
+        "passage": "Noah became a chef after Lily did.",
+        "question": "Who became a chef first?",
+        "answer": "Lily"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "The Apollo 11 mission landed on the moon on July 20, 1969. Neil Armstrong and Buzz Aldrin walked on the lunar surface.",
+        "question": "When did the Apollo 11 mission land on the moon?",
+        "answer": "July 20, 1969"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "The Wright brothers achieved the first powered flight on December 17, 1903, in Kitty Hawk, North Carolina.",
+        "question": "When was the first powered flight by the Wright brothers?",
+        "answer": "December 17, 1903"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "The Titanic sank in the North Atlantic Ocean on April 15, 1912, after colliding with an iceberg during her maiden voyage.",
+        "question": "When did the Titanic sink?",
+        "answer": "April 15, 1912"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "Martin Luther King Jr. delivered his famous 'I Have a Dream' speech on August 28, 1963, during the March on Washington.",
+        "question": "When did Martin Luther King Jr. deliver the 'I Have a Dream' speech?",
+        "answer": "August 28, 1963"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "The Berlin Wall, which had divided East and West Berlin since 1961, was officially opened on November 9, 1989.",
+        "question": "When was the Berlin Wall opened?",
+        "answer": "November 9, 1989"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776.",
+        "question": "When was the Declaration of Independence adopted?",
+        "answer": "July 4, 1776"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "The first iPhone was released by Apple on June 29, 2007, revolutionizing the smartphone industry.",
+        "question": "When was the first iPhone released?",
+        "answer": "June 29, 2007"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "The French Revolution, a period of social and political upheaval in France, began in 1789.",
+        "question": "When did the French Revolution begin?",
+        "answer": "1789"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "Leonardo da Vinci painted the Mona Lisa in the early 16th century, around 1503 to 1506.",
+        "question": "When was the Mona Lisa painted?",
+        "answer": "Early 16th century"
+    },
+    {
+        "name": "Temporal Linking",
+        "passage": "The signing of the Armistice on November 11, 1918, marked the end of World War I.",
+        "question": "When was the Armistice that ended World War I signed?",
+        "answer": "November 11, 1918"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "John started working at the company in 2010. Three years later, he was promoted to manager.",
+        "question": "When was John promoted to manager?",
+        "answer": "2013"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "The warranty on my laptop expired last June. I bought it two years before that.",
+        "question": "When did you buy the laptop?",
+        "answer": "Four years ago"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "Emma won the science fair in her final year of high school, which was a year after she created her winning project.",
+        "question": "When did Emma create her project?",
+        "answer": "Second-to-last year of high school"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "The old church was renovated a decade ago. It was originally built five decades earlier.",
+        "question": "When was the church originally built?",
+        "answer": "Six decades ago"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "They moved to a new house a month before their second child was born.",
+        "question": "When did they move to the new house in relation to their second child's birth?",
+        "answer": "One month before"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "The library was closed for renovation shortly after the new year and reopened six months later.",
+        "question": "When did the library reopen?",
+        "answer": "Mid-year"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "Linda visited Paris during her summer vacation and then went to Rome two weeks later.",
+        "question": "When did Linda visit Rome?",
+        "answer": "Two weeks after her Paris visit"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "The museum exhibition opened last week and will run until the end of next month.",
+        "question": "How long will the museum exhibition run?",
+        "answer": "About six weeks"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "Tom graduated a year before his sister did. She graduated in 2018.",
+        "question": "When did Tom graduate?",
+        "answer": "2017"
+    },
+    {
+        "name": "Relative Time Expressions",
+        "passage": "The company celebrated its 50th anniversary in 2000, ten years after moving to its current headquarters.",
+        "question": "When did the company move to its current headquarters?",
+        "answer": "1990"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "While Maria was attending a conference in Paris, her colleague John was presenting their project in Berlin.",
+        "question": "What was happening when Maria was attending the conference?",
+        "answer": "John was presenting the project"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "The festival started just as the sun was setting.",
+        "question": "What was occurring as the sun was setting?",
+        "answer": "The festival started"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "During the time Alex was studying in the library, Emma was working in the laboratory.",
+        "question": "What was Emma doing while Alex was studying?",
+        "answer": "Working in the laboratory"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "As the new year rang in, the city's fireworks display lit up the sky.",
+        "question": "What event occurred as the new year was ringing in?",
+        "answer": "Fireworks display"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "While the students were taking their final exams, their teacher was grading the previous tests.",
+        "question": "What was the teacher doing as the students took their finals?",
+        "answer": "Grading previous tests"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "The thunderstorm hit the town at the same time the concert was supposed to start.",
+        "question": "What happened when the concert was supposed to start?",
+        "answer": "Thunderstorm hit"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "As the CEO was announcing the new product, the company's stock began to rise.",
+        "question": "What was occurring as the CEO announced the new product?",
+        "answer": "Stock began to rise"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "During the week that the international summit was held, the local universities hosted various cultural events.",
+        "question": "What was happening during the international summit week?",
+        "answer": "Universities hosted cultural events"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "While the family was vacationing in Hawaii, their neighbors were looking after their pets.",
+        "question": "What were the neighbors doing while the family was in Hawaii?",
+        "answer": "Looking after pets"
+    },
+    {
+        "name": "Synchronous Events",
+        "passage": "As the clock struck midnight, people around the world celebrated the new year.",
+        "question": "What occurred as the clock struck midnight?",
+        "answer": "People celebrated the new year"
+    }
+]

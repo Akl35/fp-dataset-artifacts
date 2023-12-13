@@ -1,0 +1,152 @@
+[
+    {
+        "id": "temporal_60",
+        "title": "Temporal Reasoning Example",
+        "context": "The Apollo 11 mission landed on the moon on July 20, 1969. Neil Armstrong and Buzz Aldrin walked on the lunar surface.",
+        "question": "When did the Apollo 11 mission land on the moon?",
+        "answers": {
+            "text": [
+                "July 20, 1969"
+            ],
+            "answer_start": [
+                44
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_61",
+        "title": "Temporal Reasoning Example",
+        "context": "The Wright brothers achieved the first powered flight on December 17, 1903, in Kitty Hawk, North Carolina.",
+        "question": "When was the first powered flight by the Wright brothers?",
+        "answers": {
+            "text": [
+                "December 17, 1903"
+            ],
+            "answer_start": [
+                57
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_62",
+        "title": "Temporal Reasoning Example",
+        "context": "The Titanic sank in the North Atlantic Ocean on April 15, 1912, after colliding with an iceberg during her maiden voyage.",
+        "question": "When did the Titanic sink?",
+        "answers": {
+            "text": [
+                "April 15, 1912"
+            ],
+            "answer_start": [
+                48
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_63",
+        "title": "Temporal Reasoning Example",
+        "context": "Martin Luther King Jr. delivered his famous 'I Have a Dream' speech on August 28, 1963, during the March on Washington.",
+        "question": "When did Martin Luther King Jr. deliver the 'I Have a Dream' speech?",
+        "answers": {
+            "text": [
+                "August 28, 1963"
+            ],
+            "answer_start": [
+                71
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_64",
+        "title": "Temporal Reasoning Example",
+        "context": "The Berlin Wall, which had divided East and West Berlin since 1961, was officially opened on November 9, 1989.",
+        "question": "When was the Berlin Wall opened?",
+        "answers": {
+            "text": [
+                "November 9, 1989"
+            ],
+            "answer_start": [
+                93
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_65",
+        "title": "Temporal Reasoning Example",
+        "context": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776.",
+        "question": "When was the Declaration of Independence adopted?",
+        "answers": {
+            "text": [
+                "July 4, 1776"
+            ],
+            "answer_start": [
+                75
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_66",
+        "title": "Temporal Reasoning Example",
+        "context": "The first iPhone was released by Apple on June 29, 2007, revolutionizing the smartphone industry.",
+        "question": "When was the first iPhone released?",
+        "answers": {
+            "text": [
+                "June 29, 2007"
+            ],
+            "answer_start": [
+                42
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_67",
+        "title": "Temporal Reasoning Example",
+        "context": "The French Revolution, a period of social and political upheaval in France, began in 1789.",
+        "question": "When did the French Revolution begin?",
+        "answers": {
+            "text": [
+                "1789"
+            ],
+            "answer_start": [
+                85
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_68",
+        "title": "Temporal Reasoning Example",
+        "context": "Leonardo da Vinci painted the Mona Lisa in the early 16th century, around 1503 to 1506.",
+        "question": "When was the Mona Lisa painted?",
+        "answers": {
+            "text": [
+                "Early 16th century"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_69",
+        "title": "Temporal Reasoning Example",
+        "context": "The signing of the Armistice on November 11, 1918, marked the end of World War I.",
+        "question": "When was the Armistice that ended World War I signed?",
+        "answers": {
+            "text": [
+                "November 11, 1918"
+            ],
+            "answer_start": [
+                32
+            ]
+        },
+        "metadata": null
+    }
+]

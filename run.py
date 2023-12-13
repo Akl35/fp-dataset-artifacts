@@ -46,6 +46,8 @@ def main():
                       help='Limit the number of examples to train on.')
     argp.add_argument('--max_eval_samples', type=int, default=None,
                       help='Limit the number of examples to evaluate on.')
+    argp.add_argument('--train_set', type=str, default=None, help="This argument overrides the --dataset argument used for the task")
+    argp.add_argument('--eval_set', type=str, default=None, help="This argument overrides the --dataset argument used for the task")
 
     training_args, args = argp.parse_args_into_dataclasses()
 
@@ -62,6 +64,7 @@ def main():
         # so if we want to use a jsonl file for evaluation we need to get the "train" split
         # from the loaded dataset
         eval_split = 'train'
+        
     else:
         default_datasets = {'qa': ('squad',), 'nli': ('snli',)}
         dataset_id = tuple(args.dataset.split(':')) if args.dataset is not None else \
@@ -112,6 +115,7 @@ def main():
             num_proc=NUM_PREPROCESSING_WORKERS,
             remove_columns=train_dataset.column_names
         )
+
     if training_args.do_eval:
         eval_dataset = dataset[eval_split]
         if args.max_eval_samples:

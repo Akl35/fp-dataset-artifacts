@@ -1,0 +1,302 @@
+[ 
+    {
+        "id": "temporal_0",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Alice and Bob were teachers, but there was a change in Alice, who is now a lawyer",
+        "question": "Who is a lawyer?",
+        "answers": {
+            "text": [
+                "Alice"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_1",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Sarah and John were doctors, but there was a change in John, who is now a chef",
+        "question": "Who is a chef?",
+        "answers": {
+            "text": [
+                "John"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_2",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Emily and Mike were engineers, but there was a change in Mike, who is now a pilot",
+        "question": "Who is a pilot?",
+        "answers": {
+            "text": [
+                "Mike"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_3",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Rachel and Steve were musicians, but there was a change in Rachel, who is now an artist",
+        "question": "Who is an artist?",
+        "answers": {
+            "text": [
+                "Rachel"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_4",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Chris and Laura were journalists, but there was a change in Laura, who is now a biologist",
+        "question": "Who is a biologist?",
+        "answers": {
+            "text": [
+                "Laura"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_5",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Mark and Anna were architects, but there was a change in Mark, who is now a photographer",
+        "question": "Who is a photographer?",
+        "answers": {
+            "text": [
+                "Mark"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_6",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Omar and Lisa were dancers, but there was a change in Lisa, who is now a graphic designer",
+        "question": "Who is a graphic designer?",
+        "answers": {
+            "text": [
+                "Lisa"
+            ],
+            "answer_start": [
+                14
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_7",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Tony and Zoe were chefs, but there was a change in Tony, who is now a programmer",
+        "question": "Who is a programmer?",
+        "answers": {
+            "text": [
+                "Tony"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_8",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Max and Julie were pilots, but there was a change in Julie, who is now a scientist",
+        "question": "Who is a scientist?",
+        "answers": {
+            "text": [
+                "Julie"
+            ],
+            "answer_start": [
+                13
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_9",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Neil and Heather were police officers, but there was a change in Neil, who is now a firefighter",
+        "question": "Who is a firefighter?",
+        "answers": {
+            "text": [
+                "Neil"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_10",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Jacob and Emma were actors, but there was a change in Emma, who is now a director",
+        "question": "Who is a director?",
+        "answers": {
+            "text": [
+                "Emma"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_11",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Kevin and Amy were accountants, but there was a change in Amy, who is now a marketer",
+        "question": "Who is a marketer?",
+        "answers": {
+            "text": [
+                "Amy"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_12",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Lucas and Olivia were software developers, but there was a change in Lucas, who is now a data analyst",
+        "question": "Who is a data analyst?",
+        "answers": {
+            "text": [
+                "Lucas"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_13",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Ethan and Charlotte were electricians, but there was a change in Charlotte, who is now an interior designer",
+        "question": "Who is an interior designer?",
+        "answers": {
+            "text": [
+                "Charlotte"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_14",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Ryan and Sophia were baristas, but there was a change in Sophia, who is now a nutritionist",
+        "question": "Who is a nutritionist?",
+        "answers": {
+            "text": [
+                "Sophia"
+            ],
+            "answer_start": [
+                14
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_15",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Aaron and Mia were teachers, but there was a change in Aaron, who is now a historian",
+        "question": "Who is a historian?",
+        "answers": {
+            "text": [
+                "Aaron"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_16",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Dylan and Grace were dentists, but there was a change in Dylan, who is now a landscape architect",
+        "question": "Who is a landscape architect?",
+        "answers": {
+            "text": [
+                "Dylan"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_17",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Liam and Nora were bankers, but there was a change in Nora, who is now a social worker",
+        "question": "Who is a social worker?",
+        "answers": {
+            "text": [
+                "Nora"
+            ],
+            "answer_start": [
+                14
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_18",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Adam and Lily were veterinarians, but there was a change in Adam, who is now a zoologist",
+        "question": "Who is a zoologist?",
+        "answers": {
+            "text": [
+                "Adam"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_19",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Henry and Isabel were pharmacists, but there was a change in Henry, who is now a chemist",
+        "question": "Who is a chemist?",
+        "answers": {
+            "text": [
+                "Henry"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    }
+]

@@ -1,0 +1,1352 @@
+[
+    {
+        "id": "temporal_0",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Alice and Bob were teachers, but there was a change in Alice, who is now a lawyer",
+        "question": "Who is a lawyer?",
+        "answers": {
+            "text": [
+                "Alice"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_1",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Sarah and John were doctors, but there was a change in John, who is now a chef",
+        "question": "Who is a chef?",
+        "answers": {
+            "text": [
+                "John"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_2",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Emily and Mike were engineers, but there was a change in Mike, who is now a pilot",
+        "question": "Who is a pilot?",
+        "answers": {
+            "text": [
+                "Mike"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_3",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Rachel and Steve were musicians, but there was a change in Rachel, who is now an artist",
+        "question": "Who is an artist?",
+        "answers": {
+            "text": [
+                "Rachel"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_4",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Chris and Laura were journalists, but there was a change in Laura, who is now a biologist",
+        "question": "Who is a biologist?",
+        "answers": {
+            "text": [
+                "Laura"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_5",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Mark and Anna were architects, but there was a change in Mark, who is now a photographer",
+        "question": "Who is a photographer?",
+        "answers": {
+            "text": [
+                "Mark"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_6",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Omar and Lisa were dancers, but there was a change in Lisa, who is now a graphic designer",
+        "question": "Who is a graphic designer?",
+        "answers": {
+            "text": [
+                "Lisa"
+            ],
+            "answer_start": [
+                14
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_7",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Tony and Zoe were chefs, but there was a change in Tony, who is now a programmer",
+        "question": "Who is a programmer?",
+        "answers": {
+            "text": [
+                "Tony"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_8",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Max and Julie were pilots, but there was a change in Julie, who is now a scientist",
+        "question": "Who is a scientist?",
+        "answers": {
+            "text": [
+                "Julie"
+            ],
+            "answer_start": [
+                13
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_9",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Neil and Heather were police officers, but there was a change in Neil, who is now a firefighter",
+        "question": "Who is a firefighter?",
+        "answers": {
+            "text": [
+                "Neil"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_10",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Jacob and Emma were actors, but there was a change in Emma, who is now a director",
+        "question": "Who is a director?",
+        "answers": {
+            "text": [
+                "Emma"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_11",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Kevin and Amy were accountants, but there was a change in Amy, who is now a marketer",
+        "question": "Who is a marketer?",
+        "answers": {
+            "text": [
+                "Amy"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_12",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Lucas and Olivia were software developers, but there was a change in Lucas, who is now a data analyst",
+        "question": "Who is a data analyst?",
+        "answers": {
+            "text": [
+                "Lucas"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_13",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Ethan and Charlotte were electricians, but there was a change in Charlotte, who is now an interior designer",
+        "question": "Who is an interior designer?",
+        "answers": {
+            "text": [
+                "Charlotte"
+            ],
+            "answer_start": [
+                15
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_14",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Ryan and Sophia were baristas, but there was a change in Sophia, who is now a nutritionist",
+        "question": "Who is a nutritionist?",
+        "answers": {
+            "text": [
+                "Sophia"
+            ],
+            "answer_start": [
+                14
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_15",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Aaron and Mia were teachers, but there was a change in Aaron, who is now a historian",
+        "question": "Who is a historian?",
+        "answers": {
+            "text": [
+                "Aaron"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_16",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Dylan and Grace were dentists, but there was a change in Dylan, who is now a landscape architect",
+        "question": "Who is a landscape architect?",
+        "answers": {
+            "text": [
+                "Dylan"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_17",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Liam and Nora were bankers, but there was a change in Nora, who is now a social worker",
+        "question": "Who is a social worker?",
+        "answers": {
+            "text": [
+                "Nora"
+            ],
+            "answer_start": [
+                14
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_18",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Adam and Lily were veterinarians, but there was a change in Adam, who is now a zoologist",
+        "question": "Who is a zoologist?",
+        "answers": {
+            "text": [
+                "Adam"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_19",
+        "title": "Temporal Reasoning Example",
+        "context": "Both Henry and Isabel were pharmacists, but there was a change in Henry, who is now a chemist",
+        "question": "Who is a chemist?",
+        "answers": {
+            "text": [
+                "Henry"
+            ],
+            "answer_start": [
+                5
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_20",
+        "title": "Temporal Reasoning Example",
+        "context": "Michael became a chef before Lisa did.",
+        "question": "Who became a chef first?",
+        "answers": {
+            "text": [
+                "Michael"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_21",
+        "title": "Temporal Reasoning Example",
+        "context": "Emma became a journalist before Robert did.",
+        "question": "Who became a journalist first?",
+        "answers": {
+            "text": [
+                "Emma"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_22",
+        "title": "Temporal Reasoning Example",
+        "context": "David became a teacher before Sarah did.",
+        "question": "Who became a teacher first?",
+        "answers": {
+            "text": [
+                "David"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_23",
+        "title": "Temporal Reasoning Example",
+        "context": "Olivia became a doctor before John did.",
+        "question": "Who became a doctor first?",
+        "answers": {
+            "text": [
+                "Olivia"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_24",
+        "title": "Temporal Reasoning Example",
+        "context": "Sophia became an engineer before Max did.",
+        "question": "Who became an engineer first?",
+        "answers": {
+            "text": [
+                "Sophia"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_25",
+        "title": "Temporal Reasoning Example",
+        "context": "Daniel became a lawyer before Emily did.",
+        "question": "Who became a lawyer first?",
+        "answers": {
+            "text": [
+                "Daniel"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_26",
+        "title": "Temporal Reasoning Example",
+        "context": "Grace became a nurse before Alex did.",
+        "question": "Who became a nurse first?",
+        "answers": {
+            "text": [
+                "Grace"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_27",
+        "title": "Temporal Reasoning Example",
+        "context": "James became a photographer before Ava did.",
+        "question": "Who became a photographer first?",
+        "answers": {
+            "text": [
+                "James"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_28",
+        "title": "Temporal Reasoning Example",
+        "context": "Charlotte became an architect before Ethan did.",
+        "question": "Who became an architect first?",
+        "answers": {
+            "text": [
+                "Charlotte"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_29",
+        "title": "Temporal Reasoning Example",
+        "context": "Lucas became a scientist before Mia did.",
+        "question": "Who became a scientist first?",
+        "answers": {
+            "text": [
+                "Lucas"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_30",
+        "title": "Temporal Reasoning Example",
+        "context": "Maria became a doctor before Alex did.",
+        "question": "Who became a doctor last?",
+        "answers": {
+            "text": [
+                "Alex"
+            ],
+            "answer_start": [
+                29
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_31",
+        "title": "Temporal Reasoning Example",
+        "context": "James became a teacher before Lisa did.",
+        "question": "Who became a teacher last?",
+        "answers": {
+            "text": [
+                "Lisa"
+            ],
+            "answer_start": [
+                30
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_32",
+        "title": "Temporal Reasoning Example",
+        "context": "Ethan became a pilot before Olivia did.",
+        "question": "Who became a pilot last?",
+        "answers": {
+            "text": [
+                "Olivia"
+            ],
+            "answer_start": [
+                28
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_33",
+        "title": "Temporal Reasoning Example",
+        "context": "Sophia became an engineer before Ryan did.",
+        "question": "Who became an engineer last?",
+        "answers": {
+            "text": [
+                "Ryan"
+            ],
+            "answer_start": [
+                33
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_34",
+        "title": "Temporal Reasoning Example",
+        "context": "Derek became a chef before Naomi did.",
+        "question": "Who became a chef last?",
+        "answers": {
+            "text": [
+                "Naomi"
+            ],
+            "answer_start": [
+                27
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_35",
+        "title": "Temporal Reasoning Example",
+        "context": "Chloe became a journalist before Kevin did.",
+        "question": "Who became a journalist last?",
+        "answers": {
+            "text": [
+                "Kevin"
+            ],
+            "answer_start": [
+                33
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_36",
+        "title": "Temporal Reasoning Example",
+        "context": "Aaron became an artist before Emily did.",
+        "question": "Who became an artist last?",
+        "answers": {
+            "text": [
+                "Emily"
+            ],
+            "answer_start": [
+                30
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_37",
+        "title": "Temporal Reasoning Example",
+        "context": "Grace became a lawyer before Jacob did.",
+        "question": "Who became a lawyer last?",
+        "answers": {
+            "text": [
+                "Jacob"
+            ],
+            "answer_start": [
+                29
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_38",
+        "title": "Temporal Reasoning Example",
+        "context": "Nathan became a musician before Sarah did.",
+        "question": "Who became a musician last?",
+        "answers": {
+            "text": [
+                "Sarah"
+            ],
+            "answer_start": [
+                32
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_39",
+        "title": "Temporal Reasoning Example",
+        "context": "Leo became a scientist before Hannah did.",
+        "question": "Who became a scientist last?",
+        "answers": {
+            "text": [
+                "Hannah"
+            ],
+            "answer_start": [
+                30
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_40",
+        "title": "Temporal Reasoning Example",
+        "context": "Emma became a lawyer after John did.",
+        "question": "Who became a lawyer last?",
+        "answers": {
+            "text": [
+                "Emma"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_41",
+        "title": "Temporal Reasoning Example",
+        "context": "Michael became a teacher after Claire did.",
+        "question": "Who became a teacher last?",
+        "answers": {
+            "text": [
+                "Michael"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_42",
+        "title": "Temporal Reasoning Example",
+        "context": "Lucas became an architect after Rachel did.",
+        "question": "Who became an architect last?",
+        "answers": {
+            "text": [
+                "Lucas"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_43",
+        "title": "Temporal Reasoning Example",
+        "context": "Sophie became a pilot after Mark did.",
+        "question": "Who became a pilot last?",
+        "answers": {
+            "text": [
+                "Sophie"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_44",
+        "title": "Temporal Reasoning Example",
+        "context": "David became a chef after Lisa did.",
+        "question": "Who became a chef last?",
+        "answers": {
+            "text": [
+                "David"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_45",
+        "title": "Temporal Reasoning Example",
+        "context": "Amelia became a journalist after Alex did.",
+        "question": "Who became a journalist last?",
+        "answers": {
+            "text": [
+                "Amelia"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_46",
+        "title": "Temporal Reasoning Example",
+        "context": "Grace became an engineer after Ethan did.",
+        "question": "Who became an engineer last?",
+        "answers": {
+            "text": [
+                "Grace"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_47",
+        "title": "Temporal Reasoning Example",
+        "context": "Oliver became a musician after Zoe did.",
+        "question": "Who became a musician last?",
+        "answers": {
+            "text": [
+                "Oliver"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_48",
+        "title": "Temporal Reasoning Example",
+        "context": "Liam became a scientist after Emily did.",
+        "question": "Who became a scientist last?",
+        "answers": {
+            "text": [
+                "Liam"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_49",
+        "title": "Temporal Reasoning Example",
+        "context": "Charlotte became a doctor after Max did.",
+        "question": "Who became a doctor last?",
+        "answers": {
+            "text": [
+                "Charlotte"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_50",
+        "title": "Temporal Reasoning Example",
+        "context": "Hannah became a photographer after Tom did.",
+        "question": "Who became a photographer first?",
+        "answers": {
+            "text": [
+                "Tom"
+            ],
+            "answer_start": [
+                35
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_51",
+        "title": "Temporal Reasoning Example",
+        "context": "Daniel became an accountant after Maya did.",
+        "question": "Who became an accountant first?",
+        "answers": {
+            "text": [
+                "Maya"
+            ],
+            "answer_start": [
+                34
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_52",
+        "title": "Temporal Reasoning Example",
+        "context": "Olivia became a nurse after Ethan did.",
+        "question": "Who became a nurse first?",
+        "answers": {
+            "text": [
+                "Ethan"
+            ],
+            "answer_start": [
+                28
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_53",
+        "title": "Temporal Reasoning Example",
+        "context": "Jack became a software developer after Sarah did.",
+        "question": "Who became a software developer first?",
+        "answers": {
+            "text": [
+                "Sarah"
+            ],
+            "answer_start": [
+                39
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_54",
+        "title": "Temporal Reasoning Example",
+        "context": "Alice became a biologist after Kyle did.",
+        "question": "Who became a biologist first?",
+        "answers": {
+            "text": [
+                "Kyle"
+            ],
+            "answer_start": [
+                31
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_55",
+        "title": "Temporal Reasoning Example",
+        "context": "Leo became a graphic designer after Emily did.",
+        "question": "Who became a graphic designer first?",
+        "answers": {
+            "text": [
+                "Emily"
+            ],
+            "answer_start": [
+                36
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_56",
+        "title": "Temporal Reasoning Example",
+        "context": "Sophie became an architect after Ryan did.",
+        "question": "Who became an architect first?",
+        "answers": {
+            "text": [
+                "Ryan"
+            ],
+            "answer_start": [
+                33
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_57",
+        "title": "Temporal Reasoning Example",
+        "context": "Isaac became a teacher after Zoe did.",
+        "question": "Who became a teacher first?",
+        "answers": {
+            "text": [
+                "Zoe"
+            ],
+            "answer_start": [
+                29
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_58",
+        "title": "Temporal Reasoning Example",
+        "context": "Ava became a journalist after Max did.",
+        "question": "Who became a journalist first?",
+        "answers": {
+            "text": [
+                "Max"
+            ],
+            "answer_start": [
+                30
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_59",
+        "title": "Temporal Reasoning Example",
+        "context": "Noah became a chef after Lily did.",
+        "question": "Who became a chef first?",
+        "answers": {
+            "text": [
+                "Lily"
+            ],
+            "answer_start": [
+                25
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_60",
+        "title": "Temporal Reasoning Example",
+        "context": "The Apollo 11 mission landed on the moon on July 20, 1969. Neil Armstrong and Buzz Aldrin walked on the lunar surface.",
+        "question": "When did the Apollo 11 mission land on the moon?",
+        "answers": {
+            "text": [
+                "July 20, 1969"
+            ],
+            "answer_start": [
+                44
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_61",
+        "title": "Temporal Reasoning Example",
+        "context": "The Wright brothers achieved the first powered flight on December 17, 1903, in Kitty Hawk, North Carolina.",
+        "question": "When was the first powered flight by the Wright brothers?",
+        "answers": {
+            "text": [
+                "December 17, 1903"
+            ],
+            "answer_start": [
+                57
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_62",
+        "title": "Temporal Reasoning Example",
+        "context": "The Titanic sank in the North Atlantic Ocean on April 15, 1912, after colliding with an iceberg during her maiden voyage.",
+        "question": "When did the Titanic sink?",
+        "answers": {
+            "text": [
+                "April 15, 1912"
+            ],
+            "answer_start": [
+                48
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_63",
+        "title": "Temporal Reasoning Example",
+        "context": "Martin Luther King Jr. delivered his famous 'I Have a Dream' speech on August 28, 1963, during the March on Washington.",
+        "question": "When did Martin Luther King Jr. deliver the 'I Have a Dream' speech?",
+        "answers": {
+            "text": [
+                "August 28, 1963"
+            ],
+            "answer_start": [
+                71
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_64",
+        "title": "Temporal Reasoning Example",
+        "context": "The Berlin Wall, which had divided East and West Berlin since 1961, was officially opened on November 9, 1989.",
+        "question": "When was the Berlin Wall opened?",
+        "answers": {
+            "text": [
+                "November 9, 1989"
+            ],
+            "answer_start": [
+                93
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_65",
+        "title": "Temporal Reasoning Example",
+        "context": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776.",
+        "question": "When was the Declaration of Independence adopted?",
+        "answers": {
+            "text": [
+                "July 4, 1776"
+            ],
+            "answer_start": [
+                75
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_66",
+        "title": "Temporal Reasoning Example",
+        "context": "The first iPhone was released by Apple on June 29, 2007, revolutionizing the smartphone industry.",
+        "question": "When was the first iPhone released?",
+        "answers": {
+            "text": [
+                "June 29, 2007"
+            ],
+            "answer_start": [
+                42
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_67",
+        "title": "Temporal Reasoning Example",
+        "context": "The French Revolution, a period of social and political upheaval in France, began in 1789.",
+        "question": "When did the French Revolution begin?",
+        "answers": {
+            "text": [
+                "1789"
+            ],
+            "answer_start": [
+                85
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_68",
+        "title": "Temporal Reasoning Example",
+        "context": "Leonardo da Vinci painted the Mona Lisa in the early 16th century, around 1503 to 1506.",
+        "question": "When was the Mona Lisa painted?",
+        "answers": {
+            "text": [
+                "Early 16th century"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_69",
+        "title": "Temporal Reasoning Example",
+        "context": "The signing of the Armistice on November 11, 1918, marked the end of World War I.",
+        "question": "When was the Armistice that ended World War I signed?",
+        "answers": {
+            "text": [
+                "November 11, 1918"
+            ],
+            "answer_start": [
+                32
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_70",
+        "title": "Temporal Reasoning Example",
+        "context": "John started working at the company in 2010. Three years later, he was promoted to manager.",
+        "question": "When was John promoted to manager?",
+        "answers": {
+            "text": [
+                "2013"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_71",
+        "title": "Temporal Reasoning Example",
+        "context": "The warranty on my laptop expired last June. I bought it two years before that.",
+        "question": "When did you buy the laptop?",
+        "answers": {
+            "text": [
+                "Four years ago"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_72",
+        "title": "Temporal Reasoning Example",
+        "context": "Emma won the science fair in her final year of high school, which was a year after she created her winning project.",
+        "question": "When did Emma create her project?",
+        "answers": {
+            "text": [
+                "Second-to-last year of high school"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_73",
+        "title": "Temporal Reasoning Example",
+        "context": "The old church was renovated a decade ago. It was originally built five decades earlier.",
+        "question": "When was the church originally built?",
+        "answers": {
+            "text": [
+                "Six decades ago"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_74",
+        "title": "Temporal Reasoning Example",
+        "context": "They moved to a new house a month before their second child was born.",
+        "question": "When did they move to the new house in relation to their second child's birth?",
+        "answers": {
+            "text": [
+                "One month before"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_75",
+        "title": "Temporal Reasoning Example",
+        "context": "The library was closed for renovation shortly after the new year and reopened six months later.",
+        "question": "When did the library reopen?",
+        "answers": {
+            "text": [
+                "Mid-year"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_76",
+        "title": "Temporal Reasoning Example",
+        "context": "Linda visited Paris during her summer vacation and then went to Rome two weeks later.",
+        "question": "When did Linda visit Rome?",
+        "answers": {
+            "text": [
+                "Two weeks after her Paris visit"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_77",
+        "title": "Temporal Reasoning Example",
+        "context": "The museum exhibition opened last week and will run until the end of next month.",
+        "question": "How long will the museum exhibition run?",
+        "answers": {
+            "text": [
+                "About six weeks"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_78",
+        "title": "Temporal Reasoning Example",
+        "context": "Tom graduated a year before his sister did. She graduated in 2018.",
+        "question": "When did Tom graduate?",
+        "answers": {
+            "text": [
+                "2017"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_79",
+        "title": "Temporal Reasoning Example",
+        "context": "The company celebrated its 50th anniversary in 2000, ten years after moving to its current headquarters.",
+        "question": "When did the company move to its current headquarters?",
+        "answers": {
+            "text": [
+                "1990"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_80",
+        "title": "Temporal Reasoning Example",
+        "context": "While Maria was attending a conference in Paris, her colleague John was presenting their project in Berlin.",
+        "question": "What was happening when Maria was attending the conference?",
+        "answers": {
+            "text": [
+                "John was presenting the project"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_81",
+        "title": "Temporal Reasoning Example",
+        "context": "The festival started just as the sun was setting.",
+        "question": "What was occurring as the sun was setting?",
+        "answers": {
+            "text": [
+                "The festival started"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_82",
+        "title": "Temporal Reasoning Example",
+        "context": "During the time Alex was studying in the library, Emma was working in the laboratory.",
+        "question": "What was Emma doing while Alex was studying?",
+        "answers": {
+            "text": [
+                "Working in the laboratory"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_83",
+        "title": "Temporal Reasoning Example",
+        "context": "As the new year rang in, the city's fireworks display lit up the sky.",
+        "question": "What event occurred as the new year was ringing in?",
+        "answers": {
+            "text": [
+                "Fireworks display"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_84",
+        "title": "Temporal Reasoning Example",
+        "context": "While the students were taking their final exams, their teacher was grading the previous tests.",
+        "question": "What was the teacher doing as the students took their finals?",
+        "answers": {
+            "text": [
+                "Grading previous tests"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_85",
+        "title": "Temporal Reasoning Example",
+        "context": "The thunderstorm hit the town at the same time the concert was supposed to start.",
+        "question": "What happened when the concert was supposed to start?",
+        "answers": {
+            "text": [
+                "Thunderstorm hit"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_86",
+        "title": "Temporal Reasoning Example",
+        "context": "As the CEO was announcing the new product, the company's stock began to rise.",
+        "question": "What was occurring as the CEO announced the new product?",
+        "answers": {
+            "text": [
+                "Stock began to rise"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_87",
+        "title": "Temporal Reasoning Example",
+        "context": "During the week that the international summit was held, the local universities hosted various cultural events.",
+        "question": "What was happening during the international summit week?",
+        "answers": {
+            "text": [
+                "Universities hosted cultural events"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_88",
+        "title": "Temporal Reasoning Example",
+        "context": "While the family was vacationing in Hawaii, their neighbors were looking after their pets.",
+        "question": "What were the neighbors doing while the family was in Hawaii?",
+        "answers": {
+            "text": [
+                "Looking after pets"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_89",
+        "title": "Temporal Reasoning Example",
+        "context": "As the clock struck midnight, people around the world celebrated the new year.",
+        "question": "What occurred as the clock struck midnight?",
+        "answers": {
+            "text": [
+                "People celebrated the new year"
+            ],
+            "answer_start": [
+                -1
+            ]
+        },
+        "metadata": null
+    }
+]

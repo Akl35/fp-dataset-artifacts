@@ -1,0 +1,602 @@
+[
+    {
+        "id": "temporal_20",
+        "title": "Temporal Reasoning Example",
+        "context": "Michael became a chef before Lisa did.",
+        "question": "Who became a chef first?",
+        "answers": {
+            "text": [
+                "Michael"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_21",
+        "title": "Temporal Reasoning Example",
+        "context": "Emma became a journalist before Robert did.",
+        "question": "Who became a journalist first?",
+        "answers": {
+            "text": [
+                "Emma"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_22",
+        "title": "Temporal Reasoning Example",
+        "context": "David became a teacher before Sarah did.",
+        "question": "Who became a teacher first?",
+        "answers": {
+            "text": [
+                "David"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_23",
+        "title": "Temporal Reasoning Example",
+        "context": "Olivia became a doctor before John did.",
+        "question": "Who became a doctor first?",
+        "answers": {
+            "text": [
+                "Olivia"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_24",
+        "title": "Temporal Reasoning Example",
+        "context": "Sophia became an engineer before Max did.",
+        "question": "Who became an engineer first?",
+        "answers": {
+            "text": [
+                "Sophia"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_25",
+        "title": "Temporal Reasoning Example",
+        "context": "Daniel became a lawyer before Emily did.",
+        "question": "Who became a lawyer first?",
+        "answers": {
+            "text": [
+                "Daniel"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_26",
+        "title": "Temporal Reasoning Example",
+        "context": "Grace became a nurse before Alex did.",
+        "question": "Who became a nurse first?",
+        "answers": {
+            "text": [
+                "Grace"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_27",
+        "title": "Temporal Reasoning Example",
+        "context": "James became a photographer before Ava did.",
+        "question": "Who became a photographer first?",
+        "answers": {
+            "text": [
+                "James"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_28",
+        "title": "Temporal Reasoning Example",
+        "context": "Charlotte became an architect before Ethan did.",
+        "question": "Who became an architect first?",
+        "answers": {
+            "text": [
+                "Charlotte"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_29",
+        "title": "Temporal Reasoning Example",
+        "context": "Lucas became a scientist before Mia did.",
+        "question": "Who became a scientist first?",
+        "answers": {
+            "text": [
+                "Lucas"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_30",
+        "title": "Temporal Reasoning Example",
+        "context": "Maria became a doctor before Alex did.",
+        "question": "Who became a doctor last?",
+        "answers": {
+            "text": [
+                "Alex"
+            ],
+            "answer_start": [
+                29
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_31",
+        "title": "Temporal Reasoning Example",
+        "context": "James became a teacher before Lisa did.",
+        "question": "Who became a teacher last?",
+        "answers": {
+            "text": [
+                "Lisa"
+            ],
+            "answer_start": [
+                30
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_32",
+        "title": "Temporal Reasoning Example",
+        "context": "Ethan became a pilot before Olivia did.",
+        "question": "Who became a pilot last?",
+        "answers": {
+            "text": [
+                "Olivia"
+            ],
+            "answer_start": [
+                28
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_33",
+        "title": "Temporal Reasoning Example",
+        "context": "Sophia became an engineer before Ryan did.",
+        "question": "Who became an engineer last?",
+        "answers": {
+            "text": [
+                "Ryan"
+            ],
+            "answer_start": [
+                33
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_34",
+        "title": "Temporal Reasoning Example",
+        "context": "Derek became a chef before Naomi did.",
+        "question": "Who became a chef last?",
+        "answers": {
+            "text": [
+                "Naomi"
+            ],
+            "answer_start": [
+                27
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_35",
+        "title": "Temporal Reasoning Example",
+        "context": "Chloe became a journalist before Kevin did.",
+        "question": "Who became a journalist last?",
+        "answers": {
+            "text": [
+                "Kevin"
+            ],
+            "answer_start": [
+                33
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_36",
+        "title": "Temporal Reasoning Example",
+        "context": "Aaron became an artist before Emily did.",
+        "question": "Who became an artist last?",
+        "answers": {
+            "text": [
+                "Emily"
+            ],
+            "answer_start": [
+                30
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_37",
+        "title": "Temporal Reasoning Example",
+        "context": "Grace became a lawyer before Jacob did.",
+        "question": "Who became a lawyer last?",
+        "answers": {
+            "text": [
+                "Jacob"
+            ],
+            "answer_start": [
+                29
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_38",
+        "title": "Temporal Reasoning Example",
+        "context": "Nathan became a musician before Sarah did.",
+        "question": "Who became a musician last?",
+        "answers": {
+            "text": [
+                "Sarah"
+            ],
+            "answer_start": [
+                32
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_39",
+        "title": "Temporal Reasoning Example",
+        "context": "Leo became a scientist before Hannah did.",
+        "question": "Who became a scientist last?",
+        "answers": {
+            "text": [
+                "Hannah"
+            ],
+            "answer_start": [
+                30
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_40",
+        "title": "Temporal Reasoning Example",
+        "context": "Emma became a lawyer after John did.",
+        "question": "Who became a lawyer last?",
+        "answers": {
+            "text": [
+                "Emma"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_41",
+        "title": "Temporal Reasoning Example",
+        "context": "Michael became a teacher after Claire did.",
+        "question": "Who became a teacher last?",
+        "answers": {
+            "text": [
+                "Michael"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_42",
+        "title": "Temporal Reasoning Example",
+        "context": "Lucas became an architect after Rachel did.",
+        "question": "Who became an architect last?",
+        "answers": {
+            "text": [
+                "Lucas"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_43",
+        "title": "Temporal Reasoning Example",
+        "context": "Sophie became a pilot after Mark did.",
+        "question": "Who became a pilot last?",
+        "answers": {
+            "text": [
+                "Sophie"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_44",
+        "title": "Temporal Reasoning Example",
+        "context": "David became a chef after Lisa did.",
+        "question": "Who became a chef last?",
+        "answers": {
+            "text": [
+                "David"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_45",
+        "title": "Temporal Reasoning Example",
+        "context": "Amelia became a journalist after Alex did.",
+        "question": "Who became a journalist last?",
+        "answers": {
+            "text": [
+                "Amelia"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_46",
+        "title": "Temporal Reasoning Example",
+        "context": "Grace became an engineer after Ethan did.",
+        "question": "Who became an engineer last?",
+        "answers": {
+            "text": [
+                "Grace"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_47",
+        "title": "Temporal Reasoning Example",
+        "context": "Oliver became a musician after Zoe did.",
+        "question": "Who became a musician last?",
+        "answers": {
+            "text": [
+                "Oliver"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_48",
+        "title": "Temporal Reasoning Example",
+        "context": "Liam became a scientist after Emily did.",
+        "question": "Who became a scientist last?",
+        "answers": {
+            "text": [
+                "Liam"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_49",
+        "title": "Temporal Reasoning Example",
+        "context": "Charlotte became a doctor after Max did.",
+        "question": "Who became a doctor last?",
+        "answers": {
+            "text": [
+                "Charlotte"
+            ],
+            "answer_start": [
+                0
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_50",
+        "title": "Temporal Reasoning Example",
+        "context": "Hannah became a photographer after Tom did.",
+        "question": "Who became a photographer first?",
+        "answers": {
+            "text": [
+                "Tom"
+            ],
+            "answer_start": [
+                35
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_51",
+        "title": "Temporal Reasoning Example",
+        "context": "Daniel became an accountant after Maya did.",
+        "question": "Who became an accountant first?",
+        "answers": {
+            "text": [
+                "Maya"
+            ],
+            "answer_start": [
+                34
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_52",
+        "title": "Temporal Reasoning Example",
+        "context": "Olivia became a nurse after Ethan did.",
+        "question": "Who became a nurse first?",
+        "answers": {
+            "text": [
+                "Ethan"
+            ],
+            "answer_start": [
+                28
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_53",
+        "title": "Temporal Reasoning Example",
+        "context": "Jack became a software developer after Sarah did.",
+        "question": "Who became a software developer first?",
+        "answers": {
+            "text": [
+                "Sarah"
+            ],
+            "answer_start": [
+                39
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_54",
+        "title": "Temporal Reasoning Example",
+        "context": "Alice became a biologist after Kyle did.",
+        "question": "Who became a biologist first?",
+        "answers": {
+            "text": [
+                "Kyle"
+            ],
+            "answer_start": [
+                31
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_55",
+        "title": "Temporal Reasoning Example",
+        "context": "Leo became a graphic designer after Emily did.",
+        "question": "Who became a graphic designer first?",
+        "answers": {
+            "text": [
+                "Emily"
+            ],
+            "answer_start": [
+                36
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_56",
+        "title": "Temporal Reasoning Example",
+        "context": "Sophie became an architect after Ryan did.",
+        "question": "Who became an architect first?",
+        "answers": {
+            "text": [
+                "Ryan"
+            ],
+            "answer_start": [
+                33
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_57",
+        "title": "Temporal Reasoning Example",
+        "context": "Isaac became a teacher after Zoe did.",
+        "question": "Who became a teacher first?",
+        "answers": {
+            "text": [
+                "Zoe"
+            ],
+            "answer_start": [
+                29
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_58",
+        "title": "Temporal Reasoning Example",
+        "context": "Ava became a journalist after Max did.",
+        "question": "Who became a journalist first?",
+        "answers": {
+            "text": [
+                "Max"
+            ],
+            "answer_start": [
+                30
+            ]
+        },
+        "metadata": null
+    },
+    {
+        "id": "temporal_59",
+        "title": "Temporal Reasoning Example",
+        "context": "Noah became a chef after Lily did.",
+        "question": "Who became a chef first?",
+        "answers": {
+            "text": [
+                "Lily"
+            ],
+            "answer_start": [
+                25
+            ]
+        },
+        "metadata": null
+    }
+]

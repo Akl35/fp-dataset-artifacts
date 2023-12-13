@@ -1,0 +1,150 @@
+[{
+    "id": "temporal_70",
+    "title": "Temporal Reasoning Example",
+    "context": "John started working at the company in 2010. Three years later, he was promoted to manager.",
+    "question": "When was John promoted to manager?",
+    "answers": {
+        "text": [
+            "2013"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+},
+{
+    "id": "temporal_71",
+    "title": "Temporal Reasoning Example",
+    "context": "The warranty on my laptop expired last June. I bought it two years before that.",
+    "question": "When did you buy the laptop?",
+    "answers": {
+        "text": [
+            "Four years ago"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+},
+{
+    "id": "temporal_72",
+    "title": "Temporal Reasoning Example",
+    "context": "Emma won the science fair in her final year of high school, which was a year after she created her winning project.",
+    "question": "When did Emma create her project?",
+    "answers": {
+        "text": [
+            "Second-to-last year of high school"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+},
+{
+    "id": "temporal_73",
+    "title": "Temporal Reasoning Example",
+    "context": "The old church was renovated a decade ago. It was originally built five decades earlier.",
+    "question": "When was the church originally built?",
+    "answers": {
+        "text": [
+            "Six decades ago"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+},
+{
+    "id": "temporal_74",
+    "title": "Temporal Reasoning Example",
+    "context": "They moved to a new house a month before their second child was born.",
+    "question": "When did they move to the new house in relation to their second child's birth?",
+    "answers": {
+        "text": [
+            "One month before"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+},
+{
+    "id": "temporal_75",
+    "title": "Temporal Reasoning Example",
+    "context": "The library was closed for renovation shortly after the new year and reopened six months later.",
+    "question": "When did the library reopen?",
+    "answers": {
+        "text": [
+            "Mid-year"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+},
+{
+    "id": "temporal_76",
+    "title": "Temporal Reasoning Example",
+    "context": "Linda visited Paris during her summer vacation and then went to Rome two weeks later.",
+    "question": "When did Linda visit Rome?",
+    "answers": {
+        "text": [
+            "Two weeks after her Paris visit"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+},
+{
+    "id": "temporal_77",
+    "title": "Temporal Reasoning Example",
+    "context": "The museum exhibition opened last week and will run until the end of next month.",
+    "question": "How long will the museum exhibition run?",
+    "answers": {
+        "text": [
+            "About six weeks"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+},
+{
+    "id": "temporal_78",
+    "title": "Temporal Reasoning Example",
+    "context": "Tom graduated a year before his sister did. She graduated in 2018.",
+    "question": "When did Tom graduate?",
+    "answers": {
+        "text": [
+            "2017"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+},
+{
+    "id": "temporal_79",
+    "title": "Temporal Reasoning Example",
+    "context": "The company celebrated its 50th anniversary in 2000, ten years after moving to its current headquarters.",
+    "question": "When did the company move to its current headquarters?",
+    "answers": {
+        "text": [
+            "1990"
+        ],
+        "answer_start": [
+            -1
+        ]
+    },
+    "metadata": null
+}]
